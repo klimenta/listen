@@ -1,0 +1,5 @@
+C:\Users\klimenta\OneDrive - futurebit computers, LLC\Projects\listen\listen\bin\Release\listen.exe.config
+C:\Users\klimenta\OneDrive - futurebit computers, LLC\Projects\listen\listen\bin\Release\listen.exe
+C:\Users\klimenta\OneDrive - futurebit computers, LLC\Projects\listen\listen\bin\Release\listen.pdb
+C:\Users\klimenta\OneDrive - futurebit computers, LLC\Projects\listen\listen\obj\Release\listen.exe
+C:\Users\klimenta\OneDrive - futurebit computers, LLC\Projects\listen\listen\obj\Release\listen.pdb

@@ -1,0 +1,10 @@
+C:\Users\klimenta\OneDrive\Projects\listen\listen\bin\Debug\listen.exe.config
+C:\Users\klimenta\OneDrive\Projects\listen\listen\bin\Debug\listen.exe
+C:\Users\klimenta\OneDrive\Projects\listen\listen\bin\Debug\listen.pdb
+C:\Users\klimenta\OneDrive\Projects\listen\listen\obj\Debug\listen.exe
+C:\Users\klimenta\OneDrive\Projects\listen\listen\obj\Debug\listen.pdb
+C:\Users\klimenta\OneDrive - futurebit computers, LLC\Projects\listen\listen\bin\Debug\listen.exe.config
+C:\Users\klimenta\OneDrive - futurebit computers, LLC\Projects\listen\listen\obj\Debug\listen.exe
+C:\Users\klimenta\OneDrive - futurebit computers, LLC\Projects\listen\listen\obj\Debug\listen.pdb
+C:\Users\klimenta\OneDrive - futurebit computers, LLC\Projects\listen\listen\bin\Debug\listen.exe
+C:\Users\klimenta\OneDrive - futurebit computers, LLC\Projects\listen\listen\bin\Debug\listen.pdb
