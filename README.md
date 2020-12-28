@@ -23,3 +23,7 @@ For example, from another computer a connection was made and when typed test, an
 Type CTRL-C on the utility or **q** on the client side to quit.
 
 **NOTE:** If you get an exception *(SocketException: System.Net.Sockets.SocketException: Only one usage of each socket address (protocol/network address/port) is normally permitted)* it means that the port is already in use.
+
+## Download
+
+Compile using Visual Studio and .NET or use the provided binary under the releases section.
